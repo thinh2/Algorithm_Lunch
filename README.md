@@ -6,4 +6,9 @@ Longest valid parentheses
 https://leetcode.com/problems/longest-valid-parentheses/
 
 K inverses pair array
-https://leetcode.com/problems/k-inverse-pairs-array/
+https://leetcode.com/problems/k-inverse-pairs-array
+
+2019/07/16
+
+Burst Balloons
+https://leetcode.com/problems/burst-balloons
