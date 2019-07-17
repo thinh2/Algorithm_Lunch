@@ -18,6 +18,9 @@ https://leetcode.com/problems/burst-balloons
 Find triplets in array
 https://www.quora.com/Given-a-array-of-integers-find-3-indexes-i-j-k-such-that-i-j-k-and-a-i-a-j-a-k-Best-possible-is-a-O-n-algorithm
 
+Article on leetcode:
+https://leetcode.com/articles/132-pattern/
+
 Follow up question:
 
 Given an array of n integers, count the number of triplets (i, j, k) such that i < j < k and a[i] < a[j] < a[k]
