@@ -19,5 +19,7 @@ Find triplets in array
 https://www.quora.com/Given-a-array-of-integers-find-3-indexes-i-j-k-such-that-i-j-k-and-a-i-a-j-a-k-Best-possible-is-a-O-n-algorithm
 
 Follow up question:
+
 Given an array of n integers, count the number of possible triplets (i, j, k) such that i < j < k and a[i] < a[j] < a[k]
+
 Given an array of n integers and number l, count the number of distinct increasing subsequence with length l.
