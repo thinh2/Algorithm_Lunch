@@ -26,3 +26,9 @@ Follow up question:
 Given an array of n integers, count the number of triplets (i, j, k) such that i < j < k and a[i] < a[j] < a[k]
 
 Given an array of n integers and number l, count the number of distinct increasing subsequence with length l.
+
+2019/07/18
+
+Subarray sum equals to k
+https://leetcode.com/problems/subarray-sum-equals-k/
+
