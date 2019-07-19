@@ -32,3 +32,14 @@ Given an array of n integers and number l, count the number of distinct increasi
 Subarray sum equals to k
 https://leetcode.com/problems/subarray-sum-equals-k/
 
+2019/07/19
+
+Contiguous array
+https://leetcode.com/problems/contiguous-array
+
+Follow up question:
+
+Given array of 0/1, find the longest contiguous array in which the number of 0 is greater than 1 by k times.
+
+4sum
+https://leetcode.com/problems/4sum/
