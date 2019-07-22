@@ -43,3 +43,15 @@ Given array of 0/1, find the longest contiguous array in which the number of 0 i
 
 4sum
 https://leetcode.com/problems/4sum/
+
+2019/07/22
+
+Given an matrix contain X, Y and O. Find the smallest Mahattan distance between X and Y in matrix.
+
+Follow up questions:
+
+Escape a large maze
+https://leetcode.com/problems/escape-a-large-maze/
+
+Given very large matrix (n * n) (n <= 10^5) and some blocked cells ( <= 20). Count the number of way to go from (0, 0)
+to (n - 1, n - 1) without going to blocked cells.
