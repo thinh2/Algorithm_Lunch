@@ -55,3 +55,8 @@ https://leetcode.com/problems/escape-a-large-maze/
 
 Given very large matrix (n * n) (n <= 10^5) and some blocked cells ( <= 20). Count the number of way to go from (0, 0)
 to (n - 1, n - 1) without going to blocked cells.
+
+2019/07/24
+
+Bulb switcher
+https://leetcode.com/problems/bulb-switcher/
