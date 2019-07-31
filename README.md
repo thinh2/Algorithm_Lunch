@@ -60,3 +60,24 @@ to (n - 1, n - 1) without going to blocked cells.
 
 Bulb switcher
 https://leetcode.com/problems/bulb-switcher/
+
+2019/07/26
+
+Given an array with n elements, find min/max in sliding window size k.
+Follow up:
+Given an matrix with 0/1, find the maximum rectangle with contains only 0
+
+2019/07/30
+
+Make a deep copy of linked list
+https://leetcode.com/problems/copy-list-with-random-pointer/
+
+2019/07/31
+
+Palindrome pairs
+https://leetcode.com/problems/palindrome-pairs/
+
+Split array largest sum 
+https://leetcode.com/problems/split-array-largest-sum/
+Follow up: 
+How to solve this problem while array contains negative element ?
