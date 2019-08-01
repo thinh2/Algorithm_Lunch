@@ -81,4 +81,12 @@ Split array largest sum
 https://leetcode.com/problems/split-array-largest-sum/
 
 Follow up: 
-How to solve this problem while array contains negative element ?
+How to solve this problem while array contains negative integers ?
+
+2019/08/01
+
+Maximum sum of rectangle with no larger than k
+https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+
+Minimum number of swap to convert array to sorted one.
+https://stackoverflow.com/questions/15152322/compute-the-minimal-number-of-swaps-to-order-a-sequence
