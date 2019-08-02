@@ -90,3 +90,13 @@ https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
 Minimum number of swap to convert array to sorted one.
 https://stackoverflow.com/questions/15152322/compute-the-minimal-number-of-swaps-to-order-a-sequence
+
+2019/08/02
+
+Finding longest common subsequence 
+
+Follow up:
+
+Finding longest common subsequence with one sequence much greater than the the other
+
+Finding longest common subsequence with sequences contains only unique number
