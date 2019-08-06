@@ -100,3 +100,9 @@ Follow up:
 Finding longest common subsequence with one sequence much greater than the the other
 
 Finding longest common subsequence with sequences contains only unique number
+
+2019/08/06
+
+Too hard problem :))
+
+https://discuss.codechef.com/t/chefdoma-editorial/12231
