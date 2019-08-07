@@ -106,3 +106,8 @@ Finding longest common subsequence with sequences contains only unique number
 Too hard problem :))
 
 https://discuss.codechef.com/t/chefdoma-editorial/12231
+
+2019/08/07
+
+Maximum XOR of two elements in array . O(n) approach 
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
